@@ -1,0 +1,18 @@
+@charset "UTF-8";
+#red{
+  color: red;
+  font-size: 25px
+}
+
+#elements{
+  color:blue;
+  font-size: 25px;
+  background-color: pink;
+  height: 40px;
+  width: 130px;
+  box-sizing: border-box;
+  padding: 10px;
+  margin: 20px;
+  border-bottom:  solid 2px red;
+  border-bottom-style: dashed;
+}
